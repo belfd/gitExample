@@ -1,1 +1,2 @@
 a.txt created in remote master
+addition arriving from remote master
