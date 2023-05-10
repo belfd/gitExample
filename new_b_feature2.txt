@@ -1,5 +1,4 @@
 This is another file added to feature2
 This is code from remote feature 2
 This is another code from remote feature 2
-
 This is code from local feature 2
