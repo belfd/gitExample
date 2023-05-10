@@ -1,2 +1,0 @@
-This is a new file in feature 2 branch
-This is modification to feature2
